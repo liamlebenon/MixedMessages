@@ -1,0 +1,44 @@
+/* Stylesheet for Mixed Messages */
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: impact, "Times New Roman";
+    font-size: 400%;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+}
+
+button {
+    height: 50px;
+    width: 300px;
+    font-family: "Times New Roman";
+    font-size: 120%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 30px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    
+}
+
+body {
+    background-image: url("cinemabg.png");
+    background-repeat: no-repeat;
+
+}
+
+#quotebox {
+    margin-left: 290px;
+    margin-right: 267px;
+    height: 525px;
+    padding: 0;
+    border: 1px solid transparent;
+}
+#quote {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 250%;
+    margin-top: 220px;
+}
