@@ -2,7 +2,7 @@
 =================
 ## About this project
 ----------------------
-This project is a simple program that generates a random message of movie quotes whenever the script is run.
+This project is a simple webiste that generates a random message of movie quotes whenever the button is pressed.
 I will be presenting this project as a simple website.
 To achieve this, I will be using:
 1. JavaScript
